@@ -15,16 +15,16 @@ A flexible and easy-to-use React component for creating multi-step flows, wizard
 
 ## Installation
 
-`npm install @your-scope/react-steps`
+`npm install react-headless-steps`
 
 # or
 
-`yarn add @your-scope/react-steps`
+`yarn add react-headless-steps`
 
 ## Basic Usage
 
 ```tsx
-import { Steps } from "@your-scope/react-steps";
+import { Steps } from "react-headless-steps";
 
 function App() {
   return (
@@ -68,7 +68,7 @@ function App() {
 The useSteps hook provides control over the steps flow:
 
 ```tsx
-import { useSteps } from "@your-scope/react-steps";
+import { useSteps } from "react-headless-steps";
 
 function StepControls() {
   const {

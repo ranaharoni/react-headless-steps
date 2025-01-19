@@ -15,6 +15,14 @@
     "author": "",
     "license": "MIT",
     "description": "",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/ranaharoni/react-headless-steps.git"
+    },
+    "bugs": {
+      "url": "https://github.com/ranaharoni/react-headless-steps/issues"
+    },
+    "homepage": "https://github.com/ranaharoni/react-headless-steps#readme",
     "dependencies": {
       "react": "^19.0.0",
       "react-dom": "^19.0.0"
